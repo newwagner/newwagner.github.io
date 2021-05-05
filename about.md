@@ -1,7 +1,3 @@
-layout: page
-title: "Quien soy"
-permalink: https://github.com/newwagner/newwagner.github.io/main/about
-
 # NEWWAGNER
 
 ## Apasionado de la tecnologia
