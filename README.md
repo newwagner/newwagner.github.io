@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/newwagner/newwagner.github
 Apasionado por la Tecnologia, las motos y el estoicismo.
 
 ### Curriculum Vitae
-[About](https://newwagner.github.io/CV_salvador_de_la_garza.pdf)
+[Curriculum Vitae](https://newwagner.github.io/CV_salvador_de_la_garza.pdf)
 
 ### Markdown
 
