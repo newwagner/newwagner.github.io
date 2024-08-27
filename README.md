@@ -2,7 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/newwagner/newwagner.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Profesional con amplia experiencia en seguridad pública y privada, especializado en la implementación y supervisión de sistemas tecnológicos de videovigilancia y procedimientos operativos de seguridad. A lo largo de mi trayectoria, he desempeñado roles clave en organizaciones gubernamentales y corporativas, liderando proyectos estratégicos como el desarrollo del Proyecto Bicentenario y la instalación de más de 8,000 sistemas de videovigilancia en la Ciudad de México. Poseo una sólida formación en administración y seguridad, complementada con un continuo desarrollo profesional en áreas de marketing digital, protección de datos y manejo de crisis. Soy un líder eficaz, orientado a resultados, con habilidades para trabajar en entornos de alta presión y un enfoque ético en todas mis actividades.
+Apasionado por la Tecnologia, las motos y el estoicismo.
+
+### Curriculum Vitae
+[About](https://newwagner.github.io/CV salvador de la garza ayala.pdf)
 
 ### Markdown
 
