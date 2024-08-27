@@ -1,6 +1,6 @@
 ### Salvador de la Garza 
 
-#Apasionado por la Tecnologia, las motos y el estoicismo.
+# Apasionado por la Tecnologia, las motos y el estoicismo.
 
 ### [Curriculum Vitae](https://newwagner.github.io/CV_salvador_de_la_garza.pdf)
 
