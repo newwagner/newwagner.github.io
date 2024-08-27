@@ -2,8 +2,7 @@
 
 #Apasionado por la Tecnologia, las motos y el estoicismo.
 
-### Curriculum Vitae
-[CV](https://newwagner.github.io/CV_salvador_de_la_garza.pdf)
+[### Curriculum Vitae](https://newwagner.github.io/CV_salvador_de_la_garza.pdf)
 
 ___
 
