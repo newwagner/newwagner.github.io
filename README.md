@@ -6,8 +6,11 @@
 [CV](https://newwagner.github.io/CV_salvador_de_la_garza.pdf)
 
 ##Maximizando la Seguridad en Entornos Urbanos: La Experiencia de Salvador de la Garza Ayala
+
 En un mundo cada vez más interconectado, la seguridad en entornos urbanos es una prioridad para gobiernos y empresas por igual. Salvador de la Garza Ayala, con más de 25 años de experiencia en seguridad pública y privada, ha estado en la primera línea de esta misión, liderando proyectos clave que han transformado la forma en que las ciudades gestionan la seguridad y la vigilancia.
+
 ##La Innovación en Videovigilancia
+
 Uno de los hitos en la carrera de Salvador fue su participación en la instalación de más de 8,000 sistemas de videovigilancia en la Ciudad de México. Bajo su supervisión, estos sistemas no solo se desplegaron, sino que también se integraron de manera efectiva en los protocolos de atención a emergencias. "No se trata solo de instalar cámaras, sino de asegurar que toda la infraestructura funcione como un sistema integral de seguridad", comenta Salvador.
 ##Integrando Tecnología y Procedimientos Operativos
 Además de su experiencia en videovigilancia, Salvador ha sido pionero en la implementación de procedimientos operativos de seguridad en diversas instituciones. Su enfoque en la calidad y la certificación, como la implementación de la norma ISO 9001 en la fabricación e instalación de sistemas tecnológicos de vigilancia, ha establecido nuevos estándares en la industria. "La seguridad debe estar respaldada por procesos robustos y tecnología de punta. Sin estas bases, es imposible ofrecer una protección efectiva", afirma.
