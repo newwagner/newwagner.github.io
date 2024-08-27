@@ -31,7 +31,7 @@ Salvador no solo se apoya en su vasta experiencia, sino que también ha dedicado
 La trayectoria de Salvador de la Garza Ayala es un testimonio de cómo la experiencia, la formación continua y el liderazgo pueden converger para maximizar la seguridad en entornos urbanos. Su trabajo ha dejado una huella significativa en la forma en que se gestionan los proyectos de seguridad en México, y su enfoque integral sigue siendo un modelo a seguir para profesionales en el campo de la seguridad pública y privada.
 ___
 
-![Auditoria](https://newwagner.github.io/auditorias-de-seguridad-2.jpg)
+![Auditoria](https://newwagner.github.io/Auditorias-de-seguridad-2.jpg)
 
 ### Acerca de mi
 [About](https://newwagner.github.io/about.html)
